@@ -55,6 +55,7 @@ class ReflexCaptureAgent(CaptureAgent):
   """
 
     def registerInitialState(self, gameState):
+        self.depth = 5
         self.start = gameState.getAgentPosition(self.index)
         mazeWalls = gameState.getWalls()
         self.deadEnds = gameState.getWalls().deepCopy()
@@ -166,7 +167,7 @@ class ReflexCaptureAgent(CaptureAgent):
         v = -2147483648  # set v to neg inf
         if gameState.isOver():
             return 60000, action
-        if depth > 4:
+        if depth > self.depth:
             return self.evaluate(gameState), action
         actions = gameState.getLegalActions(self.index)
         actions = [x for x in actions if x != 'Stop']
@@ -185,7 +186,7 @@ class ReflexCaptureAgent(CaptureAgent):
         v = 2147483648  # set v to inf
         if gameState.isOver():
             return 60000, action
-        if depth > 4:
+        if depth > self.depth:
             return self.evaluate(gameState), action
         opponents = self.getOpponents(gameState)
 
@@ -248,13 +249,13 @@ class AggressiveOffenseAgent(ReflexCaptureAgent):
             features['distanceToHome'] = self.getMazeDistance(myPos, self.midMazePos)
 
         # try not to go into dead ends
-        if self.deadEnds[int(myPos[0])][int(myPos[1])] and min(oppDist)<10:
+        if self.deadEnds[int(myPos[0])][int(myPos[1])] and min(oppDist)<13:
             features['deadEnd'] = 1
         return features
 
     def getWeights(self, gameState):
-        return {'successorScore': 1000, 'distanceToFood': -5, 'distanceToHome': -6,
-                'enemyDistance': 1, 'foodCarrying': 500, 'deadEnd': -25}
+        return {'successorScore': 1000, 'distanceToFood': -1, 'distanceToHome': -20,
+                'enemyDistance': 0.1, 'foodCarrying': 500, 'deadEnd': -250}
 
 
 class DefensiveReflexAgent(ReflexCaptureAgent):
@@ -274,6 +275,15 @@ class DefensiveReflexAgent(ReflexCaptureAgent):
         # Computes whether we're on defense (1) or offense (0)
         features['onDefense'] = 1
         if myState.isPacman: features['onDefense'] = 0
+
+        foodLeft = self.getFoodYouAreDefending(gameState).asList()
+        features['foodLeft'] = len(foodLeft)
+
+        foodList = self.getFoodYouAreDefending(gameState).asList()
+        features['distanceToFood'] = 0
+        if len(foodList) > 0:  # This should always be True,  but better safe than sorry
+            minDistance = min([self.getMazeDistance(myPos, food) for food in foodList])
+            features['distanceToFood'] = minDistance
 
         enemies = [gameState.getAgentState(i) for i in
                    self.getOpponents(gameState)]  # Computes distance to invaders we can see
@@ -296,5 +306,5 @@ class DefensiveReflexAgent(ReflexCaptureAgent):
         return features
 
     def getWeights(self, gameState):
-        return {'numInvaders': -1000, 'onDefense': 100, 'invaderDistance': -1, 'stop': -100, 'reverse': -2,
-                'defenseDist': -1}
+        return {'numInvaders': -1000, 'onDefense': 100, 'invaderDistance': -5, 'stop': -100, 'reverse': -2,
+                'defenseDist': -10, 'distanceToFood': -1, 'foodLeft': 1}
