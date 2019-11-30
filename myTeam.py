@@ -250,7 +250,7 @@ class AggressiveOffenseAgent(ReflexCaptureAgent):
                 minDistance = min(safeFood)
                 features['distanceToFood'] = minDistance
             else:
-                features['distanceToFood'] = foodList[0]
+                features['distanceToFood'] = self.getMazeDistance(foodList[0], myPos)
 
 
         '''
