@@ -12,6 +12,8 @@
 # Pieter Abbeel (pabbeel@cs.berkeley.edu).
 import math
 
+import itertools
+
 from captureAgents import CaptureAgent
 import random, time, util
 from game import Directions
@@ -55,7 +57,7 @@ class ReflexCaptureAgent(CaptureAgent):
   """
 
     def registerInitialState(self, gameState):
-        self.depth = 5
+        self.depth = 6
         self.start = gameState.getAgentPosition(self.index)
         mazeWalls = gameState.getWalls()
         self.deadEnds = gameState.getWalls().deepCopy()
@@ -124,9 +126,9 @@ class ReflexCaptureAgent(CaptureAgent):
     """
 
         # You can profile your evaluation time by uncommenting these lines
-        # start = time.time()
+        start = time.time()
         (v, action) = self.maxValue(gameState, -2147483648, 2147483648, 0, 'Stop')
-        # print 'eval time for agent %d: %.4f' % (self.index, time.time() - start)
+        print 'eval time for agent %d: %.4f' % (self.index, time.time() - start)
 
         return action
 
@@ -193,6 +195,7 @@ class ReflexCaptureAgent(CaptureAgent):
             return self.evaluate(gameState), action
         opponents = self.getOpponents(gameState)
 
+
         closestEnemy = None
         minDist = 60000
         for opp in opponents:
@@ -203,7 +206,17 @@ class ReflexCaptureAgent(CaptureAgent):
         actions = gameState.getLegalActions(closestEnemy)
         actions = [x for x in actions if x != 'Stop']
 
+
+        '''opp0Actions = gameState.getLegalActions(opponents[0])
+        opp0Actions = [x for x in opp0Actions if x != 'Stop']
+        opp1Actions = gameState.getLegalActions(opponents[1])
+        opp1Actions = [x for x in opp1Actions if x != 'Stop']
+        actions = [(a,b) for a in opp0Actions for b in opp1Actions]'''
+
+
         for act in actions:
+            # succtmp = gameState.generateSuccessor(opponents[0], act[0])
+            #succ = succtmp.generateSuccessor(opponents[1], act[1])
             succ = gameState.generateSuccessor(closestEnemy, act)
             m, a = self.maxValue(succ, al, be, depth + 1, action)
             v = min(v, m)
@@ -255,7 +268,7 @@ class AggressiveOffenseAgent(ReflexCaptureAgent):
             features['distanceToHome'] = self.getMazeDistance(myPos, self.midMazePos)
 
         # try not to go into dead ends
-        if self.deadEnds[int(myPos[0])][int(myPos[1])] and min(oppDist)<13:
+        if self.deadEnds[int(myPos[0])][int(myPos[1])] and min(oppDist)<16:
             features['deadEnd'] = 1
         return features
 
