@@ -254,8 +254,8 @@ class AggressiveOffenseAgent(ReflexCaptureAgent):
         return features
 
     def getWeights(self, gameState):
-        return {'successorScore': 1000, 'distanceToFood': -1, 'distanceToHome': -20,
-                'enemyDistance': 0.1, 'foodCarrying': 500, 'deadEnd': -250}
+        return {'successorScore': 1000, 'distanceToFood': -4, 'distanceToHome': -20,
+                'enemyDistance': 0.05, 'foodCarrying': 500, 'deadEnd': -450}
 
 
 class DefensiveReflexAgent(ReflexCaptureAgent):
