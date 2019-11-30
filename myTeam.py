@@ -60,11 +60,13 @@ class ReflexCaptureAgent(CaptureAgent):
         mazeWalls = gameState.getWalls()
         self.deadEnds = gameState.getWalls().deepCopy()
         self.floodFillDeadEnds(self.deadEnds)
+        self.deadEndsList = self.deadEnds.asList()
         x = int(mazeWalls.width / 2)
         y = int(mazeWalls.height / 2)
         y = self.chooseYwithNoWall(mazeWalls, x, y)
         self.midMazePos = (x, y)
         CaptureAgent.registerInitialState(self, gameState)
+        self.debugDraw(self.deadEnds.asList(), [0,0,1], False)
 
     def floodFillDeadEnds(self, deadEnds):
         deadEndStack = util.Stack()
@@ -171,6 +173,7 @@ class ReflexCaptureAgent(CaptureAgent):
             return self.evaluate(gameState), action
         actions = gameState.getLegalActions(self.index)
         actions = [x for x in actions if x != 'Stop']
+        random.shuffle(actions)
         for act in actions:
             successor = self.getSuccessor(gameState, act)
             m, a = self.minValue(successor, al, be, depth + 1, act)
@@ -217,7 +220,6 @@ class AggressiveOffenseAgent(ReflexCaptureAgent):
         foodList = self.getFood(gameState).asList()
         features['successorScore'] = self.getScore(gameState)
 
-        # Compute distance to the nearest food
         myState = gameState.getAgentState(self.index)
         myPos = myState.getPosition()
 
@@ -225,13 +227,17 @@ class AggressiveOffenseAgent(ReflexCaptureAgent):
         opponents = self.getOpponents(gameState)
         oppPos = [gameState.getAgentState(x).getPosition() for x in opponents]
         oppDist = [self.getMazeDistance(myPos, x) for x in oppPos]
-        features['enemyDistance'] = min(oppDist)
+        # features['enemyDistance'] = min(oppDist)
 
+        # Compute distance to the nearest food
         features['distanceToFood'] = 0
         if len(foodList) > 0:  # This should always be True,  but better safe than sorry
-            minDistance = min([self.getMazeDistance(myPos, food) for food in foodList])
-            features['distanceToFood'] = minDistance
-
+            safeFood = [self.getMazeDistance(myPos, food) for food in foodList if food not in self.deadEndsList]
+            if len(safeFood)>0:
+                minDistance = min(safeFood)
+                features['distanceToFood'] = minDistance
+            else:
+                features['distanceToFood'] = foodList[0]
 
 
         '''
@@ -255,7 +261,7 @@ class AggressiveOffenseAgent(ReflexCaptureAgent):
 
     def getWeights(self, gameState):
         return {'successorScore': 1000, 'distanceToFood': -4, 'distanceToHome': -20,
-                'enemyDistance': 0.05, 'foodCarrying': 500, 'deadEnd': -450}
+                'foodCarrying': 500, 'deadEnd': -550}
 
 
 class DefensiveReflexAgent(ReflexCaptureAgent):
