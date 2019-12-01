@@ -68,7 +68,7 @@ class ReflexCaptureAgent(CaptureAgent):
         y = self.chooseYwithNoWall(mazeWalls, x, y)
         self.midMazePos = (x, y)
         CaptureAgent.registerInitialState(self, gameState)
-        self.debugDraw(self.deadEnds.asList(), [0,0,1], False)
+        #self.debugDraw(self.deadEnds.asList(), [0,0,1], False)
 
     def floodFillDeadEnds(self, deadEnds):
         deadEndStack = util.Stack()
