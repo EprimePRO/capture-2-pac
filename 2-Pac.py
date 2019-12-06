@@ -126,9 +126,11 @@ class ReflexCaptureAgent(CaptureAgent):
     """
 
         # You can profile your evaluation time by uncommenting these lines
-        # start = time.time()
+        start = time.time()
         (v, action) = self.maxValue(gameState, -2147483648, 2147483648, 0, 'Stop')
-        # print 'eval time for agent %d: %.4f' % (self.index, time.time() - start)
+        deltaTime = time.time() - start
+        if (deltaTime >= 1): return ''
+        print 'eval time for agent %d: %.4f' % (self.index, deltaTime)
 
         return action
 
