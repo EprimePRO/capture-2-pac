@@ -1,0 +1,1 @@
+python capture2.py -i 600 -r 2-Pac-friendly -b 2-Pac-final -c -n 5 -q -s 50 --record ../recordings
