@@ -1,0 +1,2115 @@
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+1
+Called random layout
+2
+Called random layout
+3
+Called random layout
+1
+Called random layout
+3
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Red team wins by 3 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Blue team wins by 6 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Blue team wins by 9 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Blue team wins by 10 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Blue team wins by 11 points.
+recorded
+Winner: Blue
+Red Matches: 0
+Blue Matches: 4
+Red Rounds: 1
+Blue Rounds: 9
+Matches: ['Tie', 'Blue', 'Blue', 'Blue', 'Blue']
+Round Scores: [[3, -2], [-3, -6], [-9, -10], [-3, -3], [-3, -11]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+2
+Called random layout
+1
+Called random layout
+0
+Called random layout
+1
+Called random layout
+1
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Blue team wins by 4 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+Tie game!
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Red team wins by 1 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+Tie game!
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+The Blue team wins by 9 points.
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Blue team wins by 7 points.
+recorded
+Winner: Blue
+Red Matches: 1
+Blue Matches: 4
+Red Rounds: 1
+Blue Rounds: 7
+Matches: ['Blue', 'Red', 'Blue', 'Blue', 'Blue']
+Round Scores: [[-3, -4], [0, 1], [-3, 0], [-9, -1], [-3, -7]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+1
+Called random layout
+0
+Called random layout
+3
+Called random layout
+2
+Called random layout
+0
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Red team wins by 1 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Blue team wins by 6 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Blue team wins by 8 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+The Red team wins by 2 points.
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Red team wins by 1 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+The Blue team wins by 11 points.
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Blue team wins by 11 points.
+recorded
+Winner: Blue
+Red Matches: 1
+Blue Matches: 3
+Red Rounds: 3
+Blue Rounds: 7
+Matches: ['Tie', 'Blue', 'Blue', 'Red', 'Blue']
+Round Scores: [[1, -3], [-1, -1], [-6, -8], [2, 1], [-11, -11]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+1
+Called random layout
+1
+Called random layout
+2
+Called random layout
+3
+Called random layout
+1
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Blue team wins by 7 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Red team wins by 5 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+The Blue team wins by 10 points.
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Blue team wins by 13 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+The Blue team wins by 4 points.
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Blue team wins by 8 points.
+recorded
+Winner: Blue
+Red Matches: 0
+Blue Matches: 4
+Red Rounds: 1
+Blue Rounds: 9
+Matches: ['Blue', 'Tie', 'Blue', 'Blue', 'Blue']
+Round Scores: [[-2, -1], [-7, 5], [-1, -3], [-10, -13], [-4, -8]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+2
+Called random layout
+0
+Called random layout
+1
+Called random layout
+2
+Called random layout
+1
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Red team wins by 3 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Blue team wins by 9 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Blue team wins by 7 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+Tie game!
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Red team wins by 2 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+The Red team wins by 4 points.
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Winner: Blue
+Red Matches: 1
+Blue Matches: 2
+Red Rounds: 3
+Blue Rounds: 6
+Matches: ['Blue', 'Tie', 'Blue', 'Red', 'Tie']
+Round Scores: [[-1, -1], [3, -9], [-1, -7], [0, 2], [4, -2]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+2
+Called random layout
+2
+Called random layout
+1
+Called random layout
+1
+Called random layout
+1
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Blue team wins by 4 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Blue team wins by 9 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Blue team wins by 4 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Blue team wins by 9 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+The Blue team wins by 8 points.
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Blue team wins by 9 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+The Red team wins by 1 points.
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Winner: Blue
+Red Matches: 0
+Blue Matches: 4
+Red Rounds: 1
+Blue Rounds: 9
+Matches: ['Blue', 'Blue', 'Blue', 'Blue', 'Tie']
+Round Scores: [[-4, -9], [-2, -4], [-9, -1], [-8, -9], [1, -1]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+1
+Called random layout
+1
+Called random layout
+3
+Called random layout
+2
+Called random layout
+1
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Blue team wins by 11 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+Tie game!
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+Tie game!
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Blue team wins by 6 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Blue team wins by 6 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+The Blue team wins by 7 points.
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Blue team wins by 7 points.
+recorded
+Winner: Blue
+Red Matches: 0
+Blue Matches: 5
+Red Rounds: 0
+Blue Rounds: 8
+Matches: ['Blue', 'Blue', 'Blue', 'Blue', 'Blue']
+Round Scores: [[-11, -1], [-3, 0], [0, -6], [-3, -6], [-7, -7]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+2
+Called random layout
+2
+Called random layout
+2
+Called random layout
+2
+Called random layout
+1
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Blue team wins by 10 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Blue team wins by 7 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+Tie game!
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+Tie game!
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+Tie game!
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Blue team wins by 12 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Blue team wins by 4 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Blue team wins by 8 points.
+recorded
+Winner: Blue
+Red Matches: 0
+Blue Matches: 4
+Red Rounds: 0
+Blue Rounds: 7
+Matches: ['Blue', 'Tie', 'Blue', 'Blue', 'Blue']
+Round Scores: [[-10, -7], [0, 0], [0, -12], [-3, -4], [-1, -8]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+1
+Called random layout
+2
+Called random layout
+0
+Called random layout
+1
+Called random layout
+2
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Blue team wins by 10 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Blue team wins by 9 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Blue team wins by 5 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Red team wins by 11 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+Tie game!
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Blue team wins by 16 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Winner: Blue
+Red Matches: 0
+Blue Matches: 4
+Red Rounds: 1
+Blue Rounds: 8
+Matches: ['Blue', 'Blue', 'Tie', 'Blue', 'Blue']
+Round Scores: [[-3, -3], [-10, -9], [-5, 11], [0, -16], [-3, -2]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+3
+Called random layout
+1
+Called random layout
+1
+Called random layout
+0
+Called random layout
+1
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Blue team wins by 15 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Blue team wins by 13 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Blue team wins by 4 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Blue team wins by 10 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+The Blue team wins by 9 points.
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Blue team wins by 11 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Blue team wins by 4 points.
+recorded
+Winner: Blue
+Red Matches: 0
+Blue Matches: 5
+Red Rounds: 0
+Blue Rounds: 10
+Matches: ['Blue', 'Blue', 'Blue', 'Blue', 'Blue']
+Round Scores: [[-15, -13], [-3, -4], [-1, -10], [-9, -11], [-3, -4]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+0
+Called random layout
+1
+Called random layout
+3
+Called random layout
+0
+Called random layout
+0
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Red team wins by 2 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Red team wins by 1 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Blue team wins by 5 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Red team wins by 7 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Blue team wins by 16 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+Tie game!
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Blue team wins by 15 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Winner: Blue
+Red Matches: 1
+Blue Matches: 3
+Red Rounds: 3
+Blue Rounds: 6
+Matches: ['Red', 'Blue', 'Tie', 'Blue', 'Blue']
+Round Scores: [[2, 1], [-5, -1], [7, -16], [0, -15], [-3, -2]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+1
+Called random layout
+3
+Called random layout
+1
+Called random layout
+1
+Called random layout
+1
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Red team wins by 2 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Blue team wins by 6 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Blue team wins by 10 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Blue team wins by 9 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+Tie game!
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+Tie game!
+recorded
+Winner: Blue
+Red Matches: 0
+Blue Matches: 3
+Red Rounds: 1
+Blue Rounds: 7
+Matches: ['Tie', 'Blue', 'Blue', 'Blue', 'Tie']
+Round Scores: [[2, -6], [-10, -9], [-1, -2], [-2, -2], [0, 0]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+0
+Called random layout
+1
+Called random layout
+2
+Called random layout
+1
+Called random layout
+0
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Blue team wins by 6 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Blue team wins by 6 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Red team wins by 1 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+Tie game!
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+The Blue team wins by 6 points.
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Blue team wins by 8 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+The Blue team wins by 4 points.
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Red team wins by 1 points.
+recorded
+Winner: Blue
+Red Matches: 0
+Blue Matches: 3
+Red Rounds: 2
+Blue Rounds: 7
+Matches: ['Blue', 'Tie', 'Blue', 'Blue', 'Tie']
+Round Scores: [[-3, -6], [-6, 1], [-2, 0], [-6, -8], [-4, 1]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+2
+Called random layout
+2
+Called random layout
+2
+Called random layout
+1
+Called random layout
+2
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Blue team wins by 5 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Red team wins by 9 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Red team wins by 2 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Red team wins by 2 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+The Blue team wins by 8 points.
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Red team wins by 3 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+Tie game!
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Blue team wins by 5 points.
+recorded
+Winner: Blue
+Red Matches: 1
+Blue Matches: 2
+Red Rounds: 4
+Blue Rounds: 5
+Matches: ['Blue', 'Tie', 'Red', 'Tie', 'Blue']
+Round Scores: [[-1, -5], [9, -2], [2, 2], [-8, 3], [0, -5]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+0
+Called random layout
+2
+Called random layout
+2
+Called random layout
+2
+Called random layout
+2
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Blue team wins by 4 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+Tie game!
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Red team wins by 15 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Red team wins by 1 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Blue team wins by 5 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+The Blue team wins by 8 points.
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Blue team wins by 9 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+The Blue team wins by 11 points.
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Blue team wins by 10 points.
+recorded
+Winner: Blue
+Red Matches: 1
+Blue Matches: 3
+Red Rounds: 2
+Blue Rounds: 7
+Matches: ['Blue', 'Red', 'Tie', 'Blue', 'Blue']
+Round Scores: [[-3, -4], [0, 15], [1, -5], [-8, -9], [-11, -10]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+1
+Called random layout
+0
+Called random layout
+2
+Called random layout
+1
+Called random layout
+2
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Blue team wins by 6 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Blue team wins by 4 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Red team wins by 1 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Blue team wins by 16 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+The Red team wins by 1 points.
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Blue team wins by 9 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Blue team wins by 6 points.
+recorded
+Winner: Blue
+Red Matches: 0
+Blue Matches: 3
+Red Rounds: 2
+Blue Rounds: 8
+Matches: ['Blue', 'Blue', 'Tie', 'Tie', 'Blue']
+Round Scores: [[-1, -6], [-3, -4], [1, -16], [1, -9], [-2, -6]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+2
+Called random layout
+1
+Called random layout
+1
+Called random layout
+1
+Called random layout
+2
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+Tie game!
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+Tie game!
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Blue team wins by 8 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Blue team wins by 11 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Blue team wins by 10 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Blue team wins by 9 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+The Blue team wins by 4 points.
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Blue team wins by 8 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+Tie game!
+recorded
+Winner: Blue
+Red Matches: 1
+Blue Matches: 3
+Red Rounds: 1
+Blue Rounds: 6
+Matches: ['Tie', 'Blue', 'Blue', 'Blue', 'Red']
+Round Scores: [[0, 0], [-8, -11], [-10, -9], [-4, -8], [1, 0]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+1
+Called random layout
+2
+Called random layout
+1
+Called random layout
+0
+Called random layout
+3
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Blue team wins by 8 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Blue team wins by 10 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Red team wins by 3 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Blue team wins by 6 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Blue team wins by 7 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+The Blue team wins by 12 points.
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Blue team wins by 8 points.
+recorded
+Winner: Blue
+Red Matches: 0
+Blue Matches: 4
+Red Rounds: 1
+Blue Rounds: 9
+Matches: ['Blue', 'Tie', 'Blue', 'Blue', 'Blue']
+Round Scores: [[-8, -10], [3, -6], [-2, -7], [-3, -3], [-12, -8]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+0
+Called random layout
+1
+Called random layout
+1
+Called random layout
+3
+Called random layout
+1
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Blue team wins by 4 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Blue team wins by 4 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Blue team wins by 8 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+The Blue team wins by 15 points.
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Blue team wins by 15 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+Tie game!
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+Tie game!
+recorded
+Winner: Blue
+Red Matches: 0
+Blue Matches: 4
+Red Rounds: 0
+Blue Rounds: 8
+Matches: ['Blue', 'Blue', 'Blue', 'Blue', 'Tie']
+Round Scores: [[-4, -4], [-2, -8], [-1, -2], [-15, -15], [0, 0]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+1
+Called random layout
+1
+Called random layout
+0
+Called random layout
+0
+Called random layout
+1
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Red team wins by 3 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Red team wins by 5 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+The Red team wins by 2 points.
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Red team wins by 1 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+The Blue team wins by 6 points.
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Blue team wins by 5 points.
+recorded
+Winner: Blue
+Red Matches: 1
+Blue Matches: 2
+Red Rounds: 4
+Blue Rounds: 6
+Matches: ['Tie', 'Blue', 'Tie', 'Red', 'Blue']
+Round Scores: [[-1, 3], [-2, -2], [5, -2], [2, 1], [-6, -5]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+1
+Called random layout
+2
+Called random layout
+1
+Called random layout
+0
+Called random layout
+0
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Blue team wins by 9 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+Tie game!
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Blue team wins by 10 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Red team wins by 2 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Blue team wins by 7 points.
+recorded
+Winner: Blue
+Red Matches: 0
+Blue Matches: 4
+Red Rounds: 1
+Blue Rounds: 8
+Matches: ['Blue', 'Blue', 'Blue', 'Tie', 'Blue']
+Round Scores: [[-9, 0], [-1, -1], [-3, -10], [-2, 2], [-2, -7]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+2
+Called random layout
+1
+Called random layout
+1
+Called random layout
+0
+Called random layout
+2
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Blue team wins by 4 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Blue team wins by 7 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Red team wins by 3 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+The Blue team wins by 6 points.
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+The Blue team wins by 12 points.
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Blue team wins by 10 points.
+recorded
+Winner: Blue
+Red Matches: 0
+Blue Matches: 4
+Red Rounds: 1
+Blue Rounds: 9
+Matches: ['Blue', 'Blue', 'Tie', 'Blue', 'Blue']
+Round Scores: [[-4, -7], [-3, -1], [-2, 3], [-6, -2], [-12, -10]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+0
+Called random layout
+1
+Called random layout
+3
+Called random layout
+2
+Called random layout
+1
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Blue team wins by 10 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Red team wins by 1 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Blue team wins by 6 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Blue team wins by 6 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Blue team wins by 6 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+The Blue team wins by 9 points.
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Blue team wins by 8 points.
+recorded
+Winner: Blue
+Red Matches: 0
+Blue Matches: 4
+Red Rounds: 1
+Blue Rounds: 9
+Matches: ['Blue', 'Tie', 'Blue', 'Blue', 'Blue']
+Round Scores: [[-2, -10], [1, -6], [-6, -6], [-1, -1], [-9, -8]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+1
+Called random layout
+3
+Called random layout
+1
+Called random layout
+1
+Called random layout
+1
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+The Blue team wins by 9 points.
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Red team wins by 5 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Blue team wins by 7 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Blue team wins by 11 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Blue team wins by 2 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+The Blue team wins by 5 points.
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Red team wins by 4 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+The Blue team wins by 6 points.
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Blue team wins by 4 points.
+recorded
+Winner: Blue
+Red Matches: 0
+Blue Matches: 3
+Red Rounds: 2
+Blue Rounds: 8
+Matches: ['Tie', 'Blue', 'Blue', 'Tie', 'Blue']
+Round Scores: [[-9, 5], [-7, -11], [-2, -2], [-5, 4], [-6, -4]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+0
+Called random layout
+2
+Called random layout
+1
+Called random layout
+3
+Called random layout
+1
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+Tie game!
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Blue team wins by 3 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Red team wins by 12 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+The Blue team wins by 7 points.
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Blue team wins by 13 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Blue team wins by 9 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+The Blue team wins by 15 points.
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+The Blue team wins by 14 points.
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+The Blue team wins by 6 points.
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Blue team wins by 6 points.
+recorded
+Winner: Blue
+Red Matches: 0
+Blue Matches: 4
+Red Rounds: 1
+Blue Rounds: 8
+Matches: ['Blue', 'Tie', 'Blue', 'Blue', 'Blue']
+Round Scores: [[0, -3], [12, -7], [-13, -9], [-15, -14], [-6, -6]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+1
+Called random layout
+0
+Called random layout
+3
+Called random layout
+1
+Called random layout
+1
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+Tie game!
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Red team wins by 2 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Playing with layout 1
+Blue team starts
+Time is up.
+Tie game!
+recorded
+Match 3:
+Playing with layout 2
+Red team starts
+Time is up.
+The Blue team wins by 5 points.
+recorded
+Playing with layout 2
+Blue team starts
+Time is up.
+The Blue team wins by 6 points.
+recorded
+Match 4:
+Playing with layout 3
+Red team starts
+Time is up.
+Tie game!
+recorded
+Playing with layout 3
+Blue team starts
+Time is up.
+Tie game!
+recorded
+Match 5:
+Playing with layout 4
+Red team starts
+Time is up.
+The Blue team wins by 7 points.
+recorded
+Playing with layout 4
+Blue team starts
+Time is up.
+The Blue team wins by 1 points.
+recorded
+Winner: Blue
+Red Matches: 1
+Blue Matches: 3
+Red Rounds: 1
+Blue Rounds: 5
+Matches: ['Red', 'Blue', 'Blue', 'Tie', 'Blue']
+Round Scores: [[0, 2], [-1, 0], [-5, -6], [0, 0], [-7, -1]]
+
+Red team 2-Pac-friendly with {}:
+Loading Team: 2-Pac-friendly.py
+Arguments: {}
+
+Blue team 2-Pac-final with {}:
+Loading Team: 2-Pac-final.py
+Arguments: {}
+Called random layout
+1
+Called random layout
+1
+Called random layout
+0
+Called random layout
+3
+Called random layout
+3
+Match 1:
+Playing with layout 0
+Red team starts
+Time is up.
+Tie game!
+recorded
+Playing with layout 0
+Blue team starts
+Time is up.
+The Red team wins by 5 points.
+recorded
+Match 2:
+Playing with layout 1
+Red team starts
+Time is up.
+The Red team wins by 1 points.
+recorded
+Playing with layout 1
+Blue team starts
